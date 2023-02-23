@@ -1,0 +1,9 @@
+.cards{
+    display: flex;
+    margin: 10px;
+    
+}
+.cards .card{
+    border-color: aliceblue;
+    margin: 7px ;
+}

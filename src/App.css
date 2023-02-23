@@ -1,0 +1,11 @@
+
+html {
+  text-align: center;
+  font:500 1rem/1.25;
+  font-family: "camber";
+
+  /* font: 500 1rem/1.25 sohne, Helvetica, Arial, sans-serif; */
+
+  color: #fff;
+  background-color: black;
+}

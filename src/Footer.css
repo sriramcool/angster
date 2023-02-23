@@ -1,0 +1,16 @@
+.footer{
+    background-color: rgb(13, 12, 20);
+    color: azure;
+}
+
+.footer .container-fluid .one{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 25px;
+}
+.one i{
+    margin: 10px;
+}
+.two p{
+    margin: 0px 0 0 0 ;
+}
